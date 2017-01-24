@@ -1,0 +1,22 @@
+{
+  "name": "moduleerror",
+  "version": "1.0.0",
+  "description": "if a module is not installed it will install it for you",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZelAk312/moduleError.git"
+  },
+  "author": "ZelAk312",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZelAk312/moduleError/issues"
+  },
+  "homepage": "https://github.com/ZelAk312/moduleError#readme",
+  "dependencies": {
+    "regexworld": "github:zelak312/regexWorld"
+  }
+}
