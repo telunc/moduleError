@@ -5,7 +5,7 @@ install `npm i ZelAk312/moduleError`
 
 ex:
 ```js
-const moduleError = require('./module.js');// you should be requiring 'moduleerror'
+const moduleError = require('./module.js');// you should be requirering 'moduleerror'
 
 try{
     const ascii = require('ascii-art');
